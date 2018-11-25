@@ -10,9 +10,7 @@
 	<name>exemple-cours-spring</name>
 	<url>http://maven.apache.org</url>
 
-	<modules>
-		<module>000-exemple-cours-spring</module>
-	</modules>
+	
 	
 	<properties>
 		<target.jdk>1.8</target.jdk>

@@ -1,5 +1,5 @@
-CREATE TABLE users (
+CREATE TABLE formations (
   id         INTEGER PRIMARY KEY,
-  name VARCHAR(30),
-  email  VARCHAR(50)
+  titre VARCHAR(80),
+  descriptif  VARCHAR(500)
 );
